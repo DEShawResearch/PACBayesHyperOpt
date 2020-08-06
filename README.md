@@ -2,7 +2,7 @@ Efficient Hyperparameter Optimization By Way of PAC-Bayes Bound Minimization
 ====================================================================
 
 This repository contains scripts accompanying our manuscript 'Efficient Hyperparameter
-Optimization By Way of PAC-Bayes Bound Minimization', submitted to ICML 2020. The
+Optimization By Way of PAC-Bayes Bound Minimization.' The
 scripts demonstrate an implementation of the proposed method and can be used
 to reproduce variants of the figures which appear in the manuscript (the default
 values of some settings in these scripts, such as the number of optimization steps and
