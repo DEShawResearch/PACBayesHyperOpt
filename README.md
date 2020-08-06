@@ -43,5 +43,5 @@ Contents
 
 References
 ----------
-Krizhevsky, A. Learning multiple layers of features from tiny images. Technical report, University of Toronto, 04 2009. URL http://www.cs.toronto.edu/-kriz/learning-features-2009-TR.pdf.
+Krizhevsky, A. Learning multiple layers of features from tiny images. Technical report, University of Toronto, 04 2009. URL http://www.cs.toronto.edu/-kriz/learning-features-2009-TR.pdf.  
 LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11):2278-2324, 1998. URL http://yann.lecun.com/exdb/mnist/.
