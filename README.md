@@ -1,8 +1,8 @@
 Efficient Hyperparameter Optimization By Way of PAC-Bayes Bound Minimization
 ====================================================================
 
-This repository contains scripts accompanying our manuscript 'Efficient Hyperparameter
-Optimization By Way of PAC-Bayes Bound Minimization.' The
+This repository contains scripts accompanying our manuscript ['Efficient Hyperparameter
+Optimization By Way of PAC-Bayes Bound Minimization.'](https://arxiv.org/abs/2008.06431v1) The
 scripts demonstrate an implementation of the proposed method and can be used
 to reproduce variants of the figures which appear in the manuscript (the default
 values of some settings in these scripts, such as the number of optimization steps and
@@ -43,5 +43,6 @@ Contents
 
 References
 ----------
-Krizhevsky, A. Learning multiple layers of features from tiny images. Technical report, University of Toronto, 04 2009. URL http://www.cs.toronto.edu/-kriz/learning-features-2009-TR.pdf.  
-LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11):2278-2324, 1998. URL http://yann.lecun.com/exdb/mnist/.
+- Cherian, J. J., Taube, A. G., McGibbon, R. T., Angelikopoulos, P., Blanc, G., Snarski, M., Richman, D. D., Klepeis, J. L., and Shaw, D. E. Efficient Hyperparameter Optimization By Way of PAC-Bayes Bound Minimization. arXiv e-print, art. arXiv: 2008.06431. URL https://arxiv.org/abs/2008.06431v1.
+- Krizhevsky, A. Learning multiple layers of features from tiny images. Technical report, University of Toronto, 04 2009. URL http://www.cs.toronto.edu/-kriz/learning-features-2009-TR.pdf.  
+- LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11):2278-2324, 1998. URL http://yann.lecun.com/exdb/mnist/.
